@@ -1,0 +1,206 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+		  
+ 
+<link href="//cdn-main.123contactform.com/styles/bootstrap.css.minified.css?5cc5ce1" rel="stylesheet" type="text/css"  />
+
+<link href="//cdn-main.123contactform.com/styles/main.min.css.minified.css?5cc5ce1" rel="stylesheet" type="text/css"  />
+
+<link href="//cdn-main.123contactform.com/styles/main.modern.css.minified.css?5cc5ce1" rel="stylesheet" type="text/css"  />
+ 
+ 
+ 
+</head>
+<body style="background-color:#C8C8C8; " >
+	  <div class="form-container big-container not-preview" style="margin:10px auto;width:650px;" id="AutoNumber1" >
+	      <div class="form-header" style="border-radius:0px;background-color:#4C4C4C">
+        <div id="header-content">
+        <div class="row">
+            <div class="col-md-12">
+                
+ 
+<div class="optionscontainer headline"><div id="header-text"  ><div class="header-text-container"><div Align="center">
+								<h1>The ROCK Ranch</h1>
+							<hr>
+						</div></div><div class="clear"></div></div>
+
+		</div> 
+                <div class="clear"></div>
+                </div>
+            <div class="clear"></div>
+        </div>
+</div>
+</div>
+	      <div class="full-height">
+        <div class="tdmain " style="margin:0 auto;width:650px;;background-color:#FFFFFF; border:none; ">
+		<div class="selector-off">
+ 
+
+<form  class="form js-form" action="" id="mainform123" method="post" name="myform" enctype="multipart/form-data" novalidate>
+	<style>
+header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:15px; 
+}
+nav {
+    line-height:30px;
+    background-color:#4CAF50;
+    height:1950px;
+    width:160px;
+    float:left;
+     padding:0px; 
+	 text-align:center;
+}
+section {
+    width:350px;
+    float:left;
+    padding:10px; 
+}
+footer {
+    background-color:#4C4C4C;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+
+a:link, a:visited {
+ //   background-color: #F0F8FF;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+</style> 
+
+ <style>
+.dropbtn {
+    background-color: #4CAF50;
+     padding: 16px;
+    font-size: 16px;
+    border: 20px;
+    cursor: pointer;
+	 
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #4C4C4C}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+ 
+</style>
+
+<nav> 
+<a href="PersonalInfo" target="_blank">PersonalInfo</a><br>
+<a href="reservation" target="_blank">Reservations</a><br>
+	<div class="dropdown"> 
+  <button class="dropbtn">Lodging</button>
+  <div class="dropdown-content" >
+    <a href="http://localhost/CodeIgniter-3.0.6/CodeIgniter-3.0.6/index.php/Lodging1">Lodging at Ranch</a>
+    <a href="http://localhost/CodeIgniter-3.0.6/CodeIgniter-3.0.6/index.php/Lodging2">Cabin Rentals</a>
+    <a href="http://localhost/CodeIgniter-3.0.6/CodeIgniter-3.0.6/index.php/Lodging3">Horse Hotel</a>
+  </div>
+</div><br>
+<a href="Complaint" target="_blank">Complaints</a><br>
+<a href="Payment" target="_blank">Payment</a><br>
+<a href="Travel" target="_blank">Travel</a><br>
+<a href="http://therockranch.com/wp-content/uploads/2015/10/2015-ROCK-RANCH-Fall-Map-Front.jpg" target="_blank">Map</a><br>
+</nav>
+
+<section>
+
+<p>We offer a taste of the real old west at our famous guest ranch and homestead. Come for the day or relax and stay awhile.M Lazy C Guest Ranch Trail Ride
+
+Enjoy one of our Guest Ranch 4 or 6 day vacation packages, or a few relaxing nights in our cozy cabins.
+
+Or if you want to head off the ranch, join us for an overnight horse trip, fishing trip, or even a hunting trip. Rope some dummies, ride some horses, throw some horseshoes, sit around the campfire, or soak in the hot tub.
+<img src="http://www.duderanch.org/images/properties/500x500/4426.jpg" alt="Mountain View" style="width:450px;height:400px;"></p>
+Foreman Cabin M Lazy C RanchThere is always something to do around the ranch. Whether you stay in one of our historic cabins or bring along your own horse and camping accommodations, the M Lazy C is the place for you.
+
+We have got a little something for everyone. We provide services for families and guest groups for all occasions. Our team building events, corporate events, and rodeos can be enjoyed in our arena or a site of your choice.</p>
+
+<img src="http://www.mlazyc.com/wp-content/uploads/divider-middle.png" alt="Mountain View" style="width:450px;height:40px;"></p>
+<h2 align= "center">Activities</h2>
+<img src="http://www.mlazyc.com/wp-content/uploads/divider-middle.png" alt="Mountain View" style="width:450px;height:40px;"></p>
+ 
+ 
+<h1>Riding Club</h1>
+<p>We welcome riding clubs for those that love to get together and ride on a regular basis. The  M Lazy C sits nestled in Pike National Forest and there are many trails for cowboys and cowgirls to explore.
+ <img src="http://www.mlazyc.com/wp-content/uploads/Sarah-And-Mikaela-300x300.jpg" alt="Mountain View" style="width:304px;height:228px;"></p>
+ <img src="http://www.mlazyc.com/wp-content/uploads/divider-middle.png" alt="Mountain View" style="width:450px;height:40px;"></p>
+ 
+ <h1>Horseback Riding</h1>
+<p>Saddle up for one of our beautiful horseback rides through Pike National forest. Join us for one hour, 2 hour, or half day rides.  See the majestic views of Pikes Peak and the Rocky Mountains. See historic mining claims and the place where the Hayman Fire started in 2002. Travel western style, astride one of our beautiful and majestic steeds
+<img src="http://www.mlazyc.com/wp-content/uploads/horseback-riding1.jpg" alt="Mountain View" style="width:304px;height:228px;"></p>
+<img src="http://www.mlazyc.com/wp-content/uploads/divider-middle.png" alt="Mountain View" style="width:450px;height:40px;"></p>
+ 
+ 
+ </section>
+<style>
+ul.pagination {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+ul.pagination li {display: inline;}
+
+ul.pagination li a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+ul.pagination li a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+ul.pagination li a:hover:not(.active) {background-color: #ddd;}	
+</style>
+
+<ul class="pagination">
+  <li><a href="#">«</a></li>
+  <li><a class="active" href="//localhost/CodeIgniter-3.0.6/CodeIgniter-3.0.6/index.php/HomePage">1</a></li>
+  <li><a href="//localhost/CodeIgniter-3.0.6/CodeIgniter-3.0.6/index.php/HomePage1">2</a></li>
+  <li><a href="//localhost/CodeIgniter-3.0.6/CodeIgniter-3.0.6/index.php/HomePage2">3</a></li>
+  <li><a href="#">»</a></li>
+</ul>
+
+<footer>
+footer
+</footer>
+
+  </form>
+ </div></div>	
+</div></div>
+ 
+<div class="clear"></div></body></html>
