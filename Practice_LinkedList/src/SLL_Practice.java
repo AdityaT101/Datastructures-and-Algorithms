@@ -237,7 +237,7 @@ public class SLL_Practice {
 		 l2.add(8);
 		 
 		
-		System.out.println(  list3.mergeTwoLists(abc, l2)  );  
+		//System.out.println(  list3.mergeTwoLists(abc, l2)  );  
 		
 		
 		//list.Print( abc);
